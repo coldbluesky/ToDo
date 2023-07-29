@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyToDo.Services
+namespace ToDo.Api.Services
 {
     public class MemoModel:baseModel
     {

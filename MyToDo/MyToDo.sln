@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyToDo", "MyToDo.csproj", "{85F6B73D-3031-4EB9-B8F9-2E4B0BE5F908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.Api", "..\ToDo.Api\ToDo.Api.csproj", "{18014834-65DD-439A-971F-CDDF5D5299D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDo.Api", "..\ToDo.Api\ToDo.Api.csproj", "{18014834-65DD-439A-971F-CDDF5D5299D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

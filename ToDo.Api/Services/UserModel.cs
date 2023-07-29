@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyToDo.Services
+namespace ToDo.Api.Services
 {
-    public class UserModel
+    public class UserModel:baseModel
     {
         public string Account { get; set; }
         public string UserName { get; set; }
